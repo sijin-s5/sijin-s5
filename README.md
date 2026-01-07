@@ -24,5 +24,5 @@
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/sijin-s-88ab18311/)
-- 📧 Email: [Email](sijinselvarajan@gmail.com)
+- 📧 Email: sijinselvarajan@gmail.com
 - 📊 Kaggle: [kaggle](https://www.kaggle.com/sijin1234)
