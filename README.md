@@ -23,6 +23,6 @@
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/husna-sherin-764366280/](https://www.linkedin.com/in/sijin-s-88ab18311/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/Sijin-764366280/](https://www.linkedin.com/in/sijin-s-88ab18311/)
 - 📧 Email: sijinselvarajan@gmail.com
 - 📊 Kaggle: [https://kaggle.com/husnasherin](https://www.kaggle.com/sijin1234)
